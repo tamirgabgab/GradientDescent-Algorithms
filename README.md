@@ -4,7 +4,7 @@ Gradient Descent Algorithms
 
 ## Dataset
 109K captcha images with labels (names) <br>
-<a> https://archive.ics.uci.edu/ml/machine-learning-databases/00203/ </a>
+<a> https://archive.ics.uci.edu/ml/datasets/YearPredictionMSD </a>
 
 
 part 1 results
