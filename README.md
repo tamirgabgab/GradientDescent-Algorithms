@@ -8,13 +8,21 @@ Gradient Descent Algorithms
 
 
 ## Model
-Linear model where w is column vector with 90 entries and each X is 90 by 51345 matrix where each columns represent sample.
+Linear model where w is column vector with 90 entries and each X is 90 by 51345 matrix where each columns represent sample. <br>
+our loss function is half MSE loss with L_2 regularization with parameter lambda / 2
 
 
 ## Train + Test
 train : first 463,715 examples <br>
 test : last 51,630 examples <br>
 
+
+## Algorithms :
+
+1. Gradient Descent
+2. Accelerated Gradient Descent.
+3. Coordinate Descent - cyclic order approach
+4. Coordinate Descent - random sampling approach
 
 part 1 results
 ![m_merged](https://user-images.githubusercontent.com/80973047/164988913-13e8029b-8c8d-4424-9aa8-53656e339de2.png)
