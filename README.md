@@ -2,6 +2,11 @@
 Gradient Descent Algorithms
 
 
+## Dataset
+109K captcha images with labels (names) <br>
+<a> https://archive.ics.uci.edu/ml/machine-learning-databases/00203/ </a>
+
+
 part 1 results
 ![m_merged](https://user-images.githubusercontent.com/80973047/164988913-13e8029b-8c8d-4424-9aa8-53656e339de2.png)
 
